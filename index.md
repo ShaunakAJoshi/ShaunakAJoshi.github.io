@@ -7,7 +7,7 @@ layout: page
 
 Hello there! My name is Mithilesh Vaidya. I’m a third year student in the Electrical Engineering department at IIT Bombay. I plan to use this website as a medium for sharing my projects and other random thoughts.
 
-If in a hurry, you can have a look at my [CV]({{site.url}}/cv)
+If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
 I blog about my experiences [here]({{site.url}}/blog/).
 

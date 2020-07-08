@@ -23,3 +23,6 @@ footer-links-active:
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+
+# Google services
+google_analytics: UA-172062065-1
