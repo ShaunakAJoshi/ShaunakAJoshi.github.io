@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Institute Technical Summer Project
+title: Handwriting Recognition Pen
 permalink: /projects/itsp/
 ---
 
@@ -8,7 +8,7 @@ After a hectic second semester, it was time for a summer project. I teamed up wi
 
 Our main goal was to eliminate the constraint of a special notebook, which most of the market-ready products require. And this is what we came up with:
 
-![Our final pen]({{site.url}}/img/itsp.png)
+![Our Final Design]({{site.url}}/img/itsp.png)
 
 The documentation can be found [here]({{site.url}}/pdf/itsp_docs.pdf).
 It describes our thought process, the obstacles we faced and how we overcame them.

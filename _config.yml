@@ -5,12 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# > # this means to ignore newlines until "baseurl:"
+
 # Site settings
 title: Mithilesh Vaidya
 full_name: Mithilesh Vaidya
+author: Mithilesh Vaidya
 email: vaidya.mithilesh@gmail.com
 email2: 17D070011@iitb.ac.in
-description: > # this means to ignore newlines until "baseurl:"
+description: An attempt to summarise my learnings in the field of Machine Learning and other interesting topics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://methi1999.github.io" # the base hostname & protocol for your site
 github_username:  methi1999
@@ -23,6 +26,7 @@ footer-links-active:
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Google services
 google_analytics: UA-172062065-1
