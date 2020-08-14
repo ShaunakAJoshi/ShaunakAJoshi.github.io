@@ -14,7 +14,7 @@ I blog about my experiences [here]({{site.url}}/blog/).
 ## Updates
 
 <!-- <div style="height:250px;overflow:auto;"> -->
-* June 2020: Completed a Hardware Development internship at [APT Portfolio](http://aptportfolio.com).
+* June 2020: Completed a Hardware Development internship at [APT Portfolio](http://aptportfolio.com). I [blogged]({% post_url 2020-06-12-apt_experience %}) about my experience!
 <!-- </div> -->
 
 
