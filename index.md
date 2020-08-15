@@ -9,7 +9,7 @@ Hello there! My name is Mithilesh Vaidya. I’m a third year student in the Elec
 
 If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
-I blog about my experiences [here]({{site.url}}/blog/).
+I blog about my experiences [here]({{site.url}}/blog.html).
 
 ## Updates
 
