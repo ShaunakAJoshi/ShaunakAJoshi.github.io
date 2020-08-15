@@ -15,9 +15,9 @@ So, a hardware internship was a good choice to explore these fields in greater d
 # Selection Procedure
 
 The selection procedure had 2 stages - a coding test followed by an interview.
-The questions asked in the coding test were simple and mainly tested basic algorithms and data structures. However, the catch was that each question had to be done in a specified programming language - either C++ or Python. One should revise basic concepts of graph traversal, sorting algorithms, string manipulation, etc. Practicing them on competitive coding sites such as hackerrank.com should suffice.
+The questions asked in the coding test were simple and mainly tested basic algorithms and data structures. However, the catch was that each question had to be done in a specified programming language - either *C++ or Python*. One should revise basic concepts of *graph traversal, sorting algorithms, string manipulation*, etc. Practicing them on competitive coding sites such as [HackerRank](www.hackerrank.com) should suffice.
 
-The interview was mainly about digital design. I was asked questions about state machines, counters, minimising logic circuits, etc. A good grasp over all the topics taught in EE224 will be helpful.
+The interview was mainly about digital design. I was asked questions about *state machines, counters, minimising logic circuits*, etc. A good grasp over all the topics taught in EE224 will be helpful.
 
 When I was finally selected, I was more relieved than ecstatic since I wouldn’t have to look for out new posts on the internship blog and put on my formals at 10 in the night and rush to the lecture hall complex for any more interviews.
 
@@ -33,11 +33,11 @@ Then, me and my co-intern were assigned different projects. Due to confidentiali
 
 I’d interact with my assigned mentor everyday -  the timings were flexible and I could work whenever I wanted to. The only suggestion was to work whenever my mentor was online so that any doubts could be cleared up immediately. My daily routine was simple - wake up at 8.30 am, either continue working on whatever I was working on or have a short meet with my mentor to clear up some issues I was facing. An hour-long lunch break from 1 pm to 2 pm, followed by another coding session. At 5.30 pm, I used to switch off my laptop and call it a day. We did not have too many meetings, which helped me focus on the actual coding.
 
-I was also asked to document my work side-by-side. Documenting your work is one of the most important but underrated skills. I was constantly reminded that poor documentation would render my work worthless since it will be difficult for someone to work on it in the future.
+I was also asked to document my work side-by-side. *Documenting your work is one of the most important but underrated skills*. I was constantly reminded that poor documentation would render my work worthless since it will be difficult for someone to work on it in the future.
 
 The WFH experience had its pros and cons. I did not end up wasting time in the crazy Bangalore traffic. I had the comfort of home-cooked food. Since I was mostly writing code, it did not affect me much. even in person, I would have spent most of the day in front of my laptop.
 
-However, we missed out on the in-office experience. Meeting new people, those exciting talks during lunch, sharing ideas with my co-interns, etc. would have been fun! People at APT were friendly and open - we could randomly ping people and ask them about their profiles and their experiences, which we did on our last day. The hierarchy is almost flat. Since the company is relatively small (~70 employees spread across offices in Bangalore, Delhi and London), anybody can pitch an idea. It is almost akin to working at a startup. Which also means that the work we did was impactful. In fact, my mentor informed me on the last day that my code was already being pushed into production! It was so satisfying to hear that 2 months of an intern’s work was already being incorporated into the master branch of their codebase!
+However, we missed out on the in-office experience. Meeting new people, those exciting talks during lunch, sharing ideas with my co-interns, etc. would have been fun! People at APT were friendly and open - we could randomly ping people and ask them about their profiles and their experiences, which we did on our last day. The hierarchy is almost flat. Since the company is relatively small (~70 employees spread across offices in Bangalore, Delhi and London), anybody can pitch an idea. It is almost akin to working at a startup. Which also means that the work we did was impactful. In fact, my mentor informed me on the last day that my code was *already being pushed into production!* It was so satisfying to hear that 2 months of an intern’s work was already being incorporated into the master branch of their codebase!
 
 
 # Conclusion
