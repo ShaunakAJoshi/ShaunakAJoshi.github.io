@@ -26,3 +26,5 @@ It is a 2-layer, 512 hidden unit GRU with dropout and trained using Adam.
 # Playing the Game
 
 You can try out the game by running *game.py*. It has a terminal-based interface.
+
+You can find the code on [GitHub](https://github.com/methi1999/hangman).
