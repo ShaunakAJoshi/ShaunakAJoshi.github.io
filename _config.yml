@@ -25,8 +25,9 @@ footer-links-active:
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-seo-tag
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Google services
 google_analytics: UA-172062065-1

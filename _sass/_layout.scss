@@ -126,7 +126,13 @@
     padding-left: $spacing-unit / 2;
 }
 
-.footer-col-1 {
+.footer-col-1l {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-1r {
+    float: right;
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
 }
