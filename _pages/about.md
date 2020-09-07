@@ -16,5 +16,5 @@ Currently, I am working with [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/pe
 
 I also interned at APT Portoflio, a high-frequency trading firm, during the summer of 2020.
 
-In my free time, I enjoy reading [books]({{site.url}}/books) and playing [tennis]({{site.url}}/tennis)
+In my free time, I enjoy reading [books]({{site.url}}/books) and playing [tennis]({{site.url}}/tennis).
 

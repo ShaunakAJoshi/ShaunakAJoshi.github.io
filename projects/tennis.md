@@ -5,7 +5,7 @@ permalink: /tennis/
 ---
 
 I’m a huge fan of lawn tennis. In my free time, you’ll either find me on the tennis court or in my room, watching tennis videos on YouTube. 
-Roger is my idol. [This](https://www.youtube.com/watch?v=cDv6uCyq8OE) is last thing I would watch on my deathbed.
+I am a huge Federer fanboy. [This](https://www.youtube.com/watch?v=cDv6uCyq8OE) is last thing I would watch on my deathbed.
 Apart from Federer’s complete game, I love:
 
 * Del Potro's Forehand
@@ -24,9 +24,9 @@ Apart from Federer’s complete game, I love:
 
 ![Kyrgios' Tweener]({{site.url}}/gifs/kyrgios.gif)
 
-* Djokovic's Defense:
+* Djokovic's Defense and Flexibility:
 
-![Djokovic's Defense]({{site.url}}/gifs/djokovic.gif)
+![Djokovic's Defense and Flexibility]({{site.url}}/gifs/djokovic.gif)
 
 * Murray's Lob:
 
