@@ -34,3 +34,6 @@ google_analytics: UA-172062065-1
 
 #theme
 theme: jekyll-theme-minimal
+
+#allow future dates
+future: true
