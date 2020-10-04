@@ -10,24 +10,24 @@ Apart from Federer’s complete game, I love:
 
 * Del Potro's Forehand
 
-![Del Potro's Forehand]({{site.url}}/gifs/delpo.gif)
+![Del Potro's Forehand]({{site.url}}/gifs/tennis/delpo.gif)
 
 * Wawrinka's Backhand:
 
-![Wawrinka's Backhand]({{site.url}}/gifs/wawrinka.gif)
+![Wawrinka's Backhand]({{site.url}}/gifs/tennis/wawrinka.gif)
 
 * Nadal's Banana Forehand:
 
-![Nadal's Banana Forehand]({{site.url}}/gifs/nadal.gif)
+![Nadal's Banana Forehand]({{site.url}}/gifs/tennis/nadal.gif)
 
 * Kyrgios' Tweener:
 
-![Kyrgios' Tweener]({{site.url}}/gifs/kyrgios.gif)
+![Kyrgios' Tweener]({{site.url}}/gifs/tennis/kyrgios.gif)
 
 * Djokovic's Defense and Flexibility:
 
-![Djokovic's Defense and Flexibility]({{site.url}}/gifs/djokovic.gif)
+![Djokovic's Defense and Flexibility]({{site.url}}/gifs/tennis/djokovic.gif)
 
 * Murray's Lob:
 
-![Murray's Lob]({{site.url}}/gifs/murray.gif)
+![Murray's Lob]({{site.url}}/gifs/tennis/murray.gif)
