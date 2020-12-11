@@ -15,4 +15,4 @@ I implemented a sliding DTW approach and tested it on the Google Speech Commands
 * MFCC features
 * Neural Network feature extractor, trained for predicting phones on the TIMIT dataset
 
-You can go through the [presentation]({{site.url}}/pdf/kws.pdf) for a complete explanation while the code can be found [here](https://github.com/methi1999/KWS).
+You can go through the [presentation]({{site.url}}/assets/pdf/kws.pdf) for a complete explanation while the code can be found [here](https://github.com/methi1999/KWS).

@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-<img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/img/profile.jpg ">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/assets/img/profile.jpg ">
 
 Hello there! My name is Mithilesh Vaidya. I’m a third year student in the Electrical Engineering department at IIT Bombay. I plan to use this website as a medium for sharing my projects and other random thoughts.
 

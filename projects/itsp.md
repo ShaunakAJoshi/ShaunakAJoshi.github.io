@@ -8,8 +8,8 @@ After a hectic second semester, it was time for a summer project. I teamed up wi
 
 Our main goal was to eliminate the constraint of a special notebook, which most of the market-ready products require. And this is what we came up with:
 
-![Our Final Design]({{site.url}}/img/itsp.png)
+![Our Final Design]({{site.url}}/assets/img/itsp.png)
 
-The documentation can be found [here]({{site.url}}/pdf/itsp_docs.pdf).
+The documentation can be found [here]({{site.url}}/assets/pdf/itsp_docs.pdf).
 It describes our thought process, the obstacles we faced and how we overcame them.
 To jump right into the code, please visit the Github [repo](https://github.com/methi1999/scribble).
