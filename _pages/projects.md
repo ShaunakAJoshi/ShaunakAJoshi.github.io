@@ -19,10 +19,10 @@ Course projects:
   [[presentation]]({{ site.url }}/assets/pdf/cs753_ppt.pptx) [[report]]({{ site.url }}/assets/pdf/cs753_report.pdf) [[code]](https://github.com/methi1999/stego-audio/)
 
 * EE786: Developments, Trends and Economic Frontiers in Electrical Engineering - Case Study on Light Cargo Drones  
-  [[case study]]({{ site.url }}/assets/pdf/ee768_case_study.pdf)
+  [[case study]]({{ site.url }}/assets/pdf/ee786_case_study.pdf)
   
 * EE763: Science of Information and Statistics - Abstract Reasoning Challenge  
-  [[presentation]]({{ site.url }}/assets/pdf/ee763_ppt)
+  [[presentation]]({{ site.url }}/assets/pdf/ee763_ppt.pdf)
   
 * CS663: Digital Image Processing - Video Toonification  
   [[code]](https://github.com/methi1999/CS663-DIP-Project)
