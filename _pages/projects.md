@@ -4,10 +4,18 @@ title: Projects
 permalink: /projects
 ---
 
-Course projects:
+### Research Projects
 
-* RnD: Deep Learning for Prominence Detection in Children’s Read Speech  
+* Dual-Degree Project (Stage 1): Deep Learning for Prominence Detection in Children’s Read Speech (based on waveform segments)  
+  [[report]]({{ site.url }}/assets/pdf/ddp1.pdf) [[arXiv]](https://arxiv.org/abs/2110.14273)
+
+* RnD: Deep Learning for Prominence Detection in Children’s Read Speech (based on acoustic contours)  
   [[presentation]]({{ site.url }}/assets/pdf/rnd_ppt.pdf) [[report]]({{ site.url }}/assets/pdf/rnd_report.pdf) [[arXiv]](https://arxiv.org/abs/2104.05488)
+
+* Supervised Research Exposition - SIRD model for studying outbreak of infectious diseases  
+  [[report]]({{ site.url }}/assets/pdf/sre_sird.pdf) [[code]](https://github.com/methi1999/SIRD-model)
+
+### Course projects
 
 * EE708: Information Theory and Coding - Communication with Noiseless Feedback (Schalkwijk and Kailath coding scheme, 1966)  
   [[presentation]]({{ site.url }}/assets/pdf/ee708_ppt.pdf)
@@ -33,9 +41,6 @@ Course projects:
 * SC631: Games and Information Theory - A study of Auction Theory  
   [[presentation]]({{ site.url }}/assets/pdf/sc631_auction_theory.pdf)
   
-* Supervised Research Exposition - SIRD model for studying outbreak of infectious diseases  
-  [[report]]({{ site.url }}/assets/pdf/sre_sird.pdf) [[code]](https://github.com/methi1999/SIRD-model)
-  
 * EE224: Digital Systems - Implementation of RISC in VHDL  
   [[specifications]]({{ site.url }}/assets/pdf/risc_specs.pdf) [[report]]({{ site.url }}/assets/pdf/risc_report.pdf) [[code]](https://github.com/methi1999/risc)
   
@@ -43,7 +48,7 @@ Course projects:
   [[report]]({{ site.url }}/assets/pdf/bandit_report.pdf) [[code]](https://github.com/methi1999/dueling-bandits)
 
 
-Miscellaneous:
+### Miscellaneous
 
 * [Keyword Spotting]({{ site.url }}/projects/kws)
 * [Hangman]({{ site.url }}/projects/hangman)
