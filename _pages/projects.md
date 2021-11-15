@@ -7,7 +7,7 @@ permalink: /projects
 ### Research Projects
 
 * Dual-Degree Project (Stage 1): Deep Learning for Prominence Detection in Children’s Read Speech (based on waveform segments)  
-  [[report]]({{ site.url }}/assets/pdf/ddp1.pdf) [[arXiv]](https://arxiv.org/abs/2110.14273)
+  [[presentation]]({{ site.url }}/assets/pdf/ddp1_ppt.pptx) [[report]]({{ site.url }}/assets/pdf/ddp1_report.pdf) [[arXiv]](https://arxiv.org/abs/2110.14273)
 
 * RnD: Deep Learning for Prominence Detection in Children’s Read Speech (based on acoustic contours)  
   [[presentation]]({{ site.url }}/assets/pdf/rnd_ppt.pdf) [[report]]({{ site.url }}/assets/pdf/rnd_report.pdf) [[arXiv]](https://arxiv.org/abs/2104.05488)
