@@ -21,7 +21,7 @@ I blog about my experiences [here]({{site.url}}/blog.html).
 ## Updates
 
 <!-- <div style="height:250px;overflow:auto;"> -->
-* **October 2021**: Presented Stage 1 of my dual-degree project. Report available in [Projects]({{site.url}}/projects.html) section. 
+* **October 2021**: Presented Stage 1 of my Master's thesis. Report available in [Projects]({{site.url}}/projects.html) section. 
 * **October 2021**: Submitted our work on *Deep Learning for Prominence Detection in Children’s Read Speech* to ICASSP 2022. Preprint available on [arXiv](https://arxiv.org/abs/2110.14273).
 * **March 2021**: Started my tenure as an Editorial Board Member for [Insight](https://www.insightiitb.org),
   IIT Bombay's student media body.

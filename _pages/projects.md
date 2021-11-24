@@ -6,13 +6,16 @@ permalink: /projects
 
 ### Research Projects
 
-* Dual-Degree Project (Stage 1): Deep Learning for Prominence Detection in Children’s Read Speech (based on waveform segments)  
+* Master's Thesis (Stage 1): Deep Learning for Prominence Detection in Children’s Read Speech (based on waveform segments)  
   [[presentation]]({{ site.url }}/assets/pdf/ddp1_ppt.pptx) [[report]]({{ site.url }}/assets/pdf/ddp1_report.pdf) [[arXiv]](https://arxiv.org/abs/2110.14273)
 
-* RnD: Deep Learning for Prominence Detection in Children’s Read Speech (based on acoustic contours)  
+* Character Animation from Video in Blender  
+  [[presentation]](https://docs.google.com/presentation/d/1TEVYZGPMrn5LLypoGjDc5QhWAy3K8PVQNFJfoFA-RS4/edit?usp=sharing) [[report]]({{ site.url }}/assets/pdf/hpr_report.pdf)
+
+* Deep Learning for Prominence Detection in Children’s Read Speech (based on acoustic contours)  
   [[presentation]]({{ site.url }}/assets/pdf/rnd_ppt.pdf) [[report]]({{ site.url }}/assets/pdf/rnd_report.pdf) [[arXiv]](https://arxiv.org/abs/2104.05488)
 
-* Supervised Research Exposition - SIRD model for studying outbreak of infectious diseases  
+* SIRD model for studying outbreak of infectious diseases  
   [[report]]({{ site.url }}/assets/pdf/sre_sird.pdf) [[code]](https://github.com/methi1999/SIRD-model)
 
 ### Course projects
